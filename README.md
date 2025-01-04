@@ -14,7 +14,7 @@ The following **required** functionality is completed:
 - [ ] Tapping the button changes the screen color to a random color
 
 Video walk through of my code:
-Kapture 2025-01-04 at 04.08.13.gif
+file:///Users/permafrost/Downloads/Kapture%202025-01-04%20at%2004.08.13.gif
  
 
 ## App Brainstorming (Step 4)
